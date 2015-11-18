@@ -37,7 +37,7 @@
      "action": "close"
     },
     {
-     "path": "content/experiment.js",
+     "path": "content/Experiment.java",
      "panel": 0,
      "action": "open"
     }
@@ -59,7 +59,7 @@
      "action": "close"
     },
     {
-     "path": "content/1-arrays/example1.js",
+     "path": "content/1-arrays/Example1.java",
      "panel": 0,
      "action": "open"
     }
@@ -94,7 +94,7 @@
      "action": "close"
     },
     {
-     "path": "content/1-arrays/example2.js",
+     "path": "content/1-arrays/Example2.java",
      "panel": 0,
      "action": "open"
     }

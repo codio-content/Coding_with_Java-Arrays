@@ -2,7 +2,7 @@
 
 |||guidance
 ### Solution
-```javascript
+```java
 // Get input from the command line
 var numbers = process.argv.slice(2)
 

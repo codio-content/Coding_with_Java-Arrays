@@ -2,7 +2,7 @@
 
 |||guidance
 ## Solution
-```javascript
+```java
 
 // Get command line arguments
 var N = +process.argv[2]

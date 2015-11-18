@@ -1,4 +1,4 @@
-Javascript also has a couple of useful methods for adding elements to the end of an array.
+Java also has a couple of useful methods for adding elements to the end of an array.
 
 {Run code}(node ./content/1-arrays/push-pop.js)
 

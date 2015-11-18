@@ -8,7 +8,7 @@ We'll introduce something really handy at this point. Because an array cna have 
 
 We can found out how many people we have using this 
 
-```javascript
+```java
 people.length
 ```
 

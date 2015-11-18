@@ -2,7 +2,7 @@
 
 |||guidance
 ## Solution
-```javascript
+```java
 
 // Get input from the command line
 var N = process.argv.pop()       // Remove the last argument to get N
