@@ -1,22 +1,28 @@
-import java.util.*;
+package arraylist;
+import java.util.ArrayList;
 
-public class Experiment {
+public class AddRemove {
 
     public static void main(String[] args) {
       
         // Write your code below.
-        String[] stringArray = { "a", "b", "c", "d", "e" };
-        ArrayList<String> arrayList = new ArrayList<String>(Arrays.asList(stringArray));
+        ArrayList<String> arrayList = new ArrayList<String>();
         System.out.println(arrayList);
         arrayList.add("f");
         System.out.println(arrayList);
+        arrayList.remove(0);
+        arrayList.remove(1);
+        System.out.println(arrayList);
+        arrayList.remove(arrayList.size()-1);
+        System.out.println(arrayList);
       
-        // Integer[] intArray = { 1,2,3,4,5 };
         List<Integer> intList = new ArrayList<Integer>();
         System.out.println(intList);
         intList.add(6);
         System.out.println(intList);
-        intList.remove(0);
+        intList.add(800);
         System.out.println(intList);
+        
+      
     }
 }

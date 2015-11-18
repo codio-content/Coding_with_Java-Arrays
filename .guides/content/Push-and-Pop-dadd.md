@@ -1,5 +1,7 @@
 Java also has a couple of useful methods for adding elements to the end of an array.
 
+{Run code}(content/1-arrays/AddRemove.sh)
+
 {Run code}(node ./content/1-arrays/push-pop.js)
 
 ## Push
