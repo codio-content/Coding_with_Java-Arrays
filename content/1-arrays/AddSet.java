@@ -23,7 +23,7 @@ public class AddSet {
         System.out.println(names);
       
         int replaceIndex = names.indexOf("Mary");
-        names.set(replaceIndex, "Mandy");
+        names.set(replaceIndex, "Mandy"); // Replace "Mary" with "Mandy"
         System.out.println(names);
     }
 }
