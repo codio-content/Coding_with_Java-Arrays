@@ -1,9 +1,9 @@
 #!/bin/bash
 
-cd /home/codio/workspace/content/1-arrays
+cd /home/codio/workspace/content/arraylist
 
-javac ArrList.java
+javac AddRemove.java
 if [ $? -ne 0 ]; then exit 1; fi
 
-java ArrList
+java AddRemove
 if [ $? -ne 0 ]; then exit 1; fi

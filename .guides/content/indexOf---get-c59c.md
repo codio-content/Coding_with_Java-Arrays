@@ -1,6 +1,6 @@
 The `.indexOf()` method allows us to get an element's index inside the ArrayList and extend the `.add()` and `.remove()` methods capabilities.
 
-{Run code}(content/1-arrays/IndexOf.sh)
+{Run code}(content/arraylist/IndexOf.sh)
 
 ## get(int index)
 

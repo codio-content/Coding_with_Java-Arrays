@@ -1,6 +1,6 @@
 Once ArrayLists have been declared, it is possible to execute several methods to manipulate its items.
 
-{Run code}(content/1-arrays/ArrList.sh)
+{Run code}(content/arraylist/ArrList.sh)
 
 ## Add
 

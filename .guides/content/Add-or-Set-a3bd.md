@@ -1,6 +1,6 @@
 It is possible to insert or replace elements at a specified index of the ArrayList.
 
-{Run code}(content/1-arrays/AddSet.sh)
+{Run code}(content/arraylist/AddSet.sh)
 
 ## add(int index, E element)
 

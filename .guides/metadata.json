@@ -116,7 +116,7 @@
      "action": "close"
     },
     {
-     "path": "content/1-arrays/ArrList.java",
+     "path": "content/arraylist/ArrList.java",
      "panel": 0,
      "action": "open"
     }
@@ -149,7 +149,7 @@
      "action": "close"
     },
     {
-     "path": "content/1-arrays/AddRemove.java",
+     "path": "content/arraylist/AddRemove.java",
      "panel": 0,
      "action": "open"
     }
@@ -171,7 +171,7 @@
      "action": "close"
     },
     {
-     "path": "content/1-arrays/IndexOf.java",
+     "path": "content/arraylist/IndexOf.java",
      "panel": 0,
      "action": "open"
     }
@@ -193,7 +193,7 @@
      "action": "close"
     },
     {
-     "path": "content/1-arrays/AddSet.java",
+     "path": "content/arraylist/AddSet.java",
      "panel": 0,
      "action": "open"
     }
@@ -201,7 +201,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Set-a3bd.md",
+   "content-file": ".guides/content/Add-or-Set-a3bd.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

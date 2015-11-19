@@ -4,7 +4,7 @@ After declaring an ArrayList, Java provides a couple of useful methods for worki
 
 Note that ArrayLists are suitable for working with _Strings_. Java has another set of _utilities_ designed for working with integers, which we are going to cover in a moment.
 
-{Run code}(content/1-arrays/ArrList.sh)
+{Run code}(content/arraylist/ArrList.sh)
 
 ## Importing the ArrayList
 
