@@ -109,7 +109,40 @@
   },
   {
    "id": "dadd8e0e-1a3a-4801-3da5-aeb5a0bb626a",
-   "title": "Push and Pop",
+   "title": "Array Lists",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "content/1-arrays/ArrList.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Array-Lists-dadd.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8bd425cd-728e-176a-2b10-e75196a65ef7",
+   "title": "Add and Remove",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Add-and-Remove-8bd4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f80d53f1-3bcc-90c0-c2f3-5e3c1b6add79",
+   "title": "Remove by element",
    "files": [
     {
      "path": "#tabs",
@@ -124,21 +157,21 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Push-and-Pop-dadd.md",
+   "content-file": ".guides/content/Remove-by-element-f80d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
-   "id": "f80d53f1-3bcc-90c0-c2f3-5e3c1b6add79",
-   "title": "Shift and Unshift",
+   "id": "c59c9ecc-3a05-77d6-11ea-cf8447a51ffd",
+   "title": "indexOf & get",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     },
     {
-     "path": "content/1-arrays/shift-unshift.js",
+     "path": "content/1-arrays/IndexOf.java",
      "panel": 0,
      "action": "open"
     }
@@ -146,8 +179,42 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Shift-and-Unshift-f80d.md",
+   "content-file": ".guides/content/indexOf---get-c59c.md",
    "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a3bd4e1f-385e-1e2-aa9e-846883a0732d",
+   "title": "Add or Set",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "content/1-arrays/AddSet.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Set-a3bd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9afe1e6e-51e8-aa0f-42fa-5235e333a887",
+   "title": "Lists",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lists-9afe.md",
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },

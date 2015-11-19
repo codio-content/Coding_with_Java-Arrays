@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class AddRemove {
+public class ArrList {
 
     public static void main(String[] args) {
       
@@ -15,8 +15,12 @@ public class AddRemove {
         names.add("Jack");
         System.out.println(names);
       
-        names.remove("James");     // Remove by element name
-        names.remove("John");
+        names.remove(0);           // Remove by array list index
+        names.remove(1);            
+        System.out.println(names);
+        
+        System.out.println(names.size()); // Print names size or length
+        names.remove( names.size() - 1 ); // Remove item from last index
         System.out.println(names);
       
     }
