@@ -276,7 +276,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/sum.js",
+     "path": "challenges/array_sum/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -298,7 +298,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/populate.js",
+     "path": "challenges/new_array/Challenge.java",
      "panel": 0,
      "action": "open"
     }

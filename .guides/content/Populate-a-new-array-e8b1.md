@@ -1,19 +1,29 @@
-{Check It!|assessment}(test-3847250861)
+{Check It!|assessment}(test-2290176677)
+
 
 |||guidance
 ## Solution
 ```java
+import java.util.ArrayList;
 
-// Get command line arguments
-var N = +process.argv[2]
+public class Challenge {
 
-// Your code goes here
-var result = []
-
-for (var i=0; i < N; i++ ) {
-  result[i] = i*10
+    public static void main(String[] args) {
+      
+        // input variables
+        String[] produce = {args[0],args[1],args[2],args[3]};
+      
+        // Write your code below
+        ArrayList<String> produceList = new ArrayList<String>();
+      
+        for (int i = 0; i < produce.length; i++) {
+          produceList.add(produce[i]);
+        }
+        produceList.add("carrot");
+        System.out.println(produceList);
+      
+    }
 }
 
-console.log(result)
 ```
 |||
