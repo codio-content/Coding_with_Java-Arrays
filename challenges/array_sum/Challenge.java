@@ -14,6 +14,6 @@ public class Challenge {
         };
       
         // Write your code below
-      
+        
     }
 }

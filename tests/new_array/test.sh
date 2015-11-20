@@ -16,6 +16,8 @@ if [ $? -ne 0 ]; then exit 1; fi
 OUTPUT1=($(java Challenge $INPUT0 $INPUT1 $INPUT2 $INPUT3))
 if [ $? -ne 0 ]; then exit 1; fi
 
+echo "Input: " $INPUT0 $INPUT1 $INPUT2 $INPUT3
+echo "Your output:"
 for i in ${OUTPUT1[@]}; do
   echo $i
 done

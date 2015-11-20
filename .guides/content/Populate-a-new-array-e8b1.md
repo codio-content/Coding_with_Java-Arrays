@@ -1,6 +1,5 @@
 {Check It!|assessment}(test-2290176677)
 
-
 |||guidance
 ## Solution
 ```java
@@ -9,7 +8,6 @@ import java.util.ArrayList;
 public class Challenge {
 
     public static void main(String[] args) {
-      
         // input variables
         String[] produce = {args[0],args[1],args[2],args[3]};
       

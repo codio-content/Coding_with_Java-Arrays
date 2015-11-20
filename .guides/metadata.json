@@ -342,7 +342,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/numsearch.js",
+     "path": "challenges/num_search/Challenge.java",
      "panel": 0,
      "action": "open"
     }
