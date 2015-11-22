@@ -320,7 +320,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/strarray.js",
+     "path": "challenges/string_arr/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -364,7 +364,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/max.js",
+     "path": "challenges/max_num/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -386,7 +386,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/x10.js",
+     "path": "challenges/n_x_10/Challenge.java",
      "panel": 0,
      "action": "open"
     }

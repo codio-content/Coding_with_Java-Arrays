@@ -1,26 +1,20 @@
 #!/bin/bash
 
-N=6
 INPUT0=3
-INPUT1=4
-INPUT2=6
-INPUT3=2
 
 echo "<h3>Program Output</h3>"
 
-cd /home/codio/workspace/challenges/num_search
+cd /home/codio/workspace/challenges/string_arr
 
 javac Challenge.java
 if [ $? -ne 0 ]; then exit 1; fi
 
 # 1
-OUTPUT1=($(java Challenge $N $INPUT0 $INPUT1 $INPUT2 $INPUT3))
+OUTPUT1=($(java Challenge))
 if [ $? -ne 0 ]; then exit 1; fi
 
-echo "Input: N = " $N ", ints = " $INPUT0 $INPUT1 $INPUT2 $INPUT3
-
 for i in ${OUTPUT1[@]}; do
-  echo "Output: " $i
+  echo $i
 done
 
 if [ ${#OUTPUT1[@]} != 1 ]; then

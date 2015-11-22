@@ -1,9 +1,3 @@
-{Check It!|assessment}(test-466416884)
-
-
-|||guidance
-### Solution
-```java
 import java.util.List;
 import java.util.ArrayList;
 
@@ -36,6 +30,3 @@ public class Challenge {
       
     }
 }
-
-```
-|||

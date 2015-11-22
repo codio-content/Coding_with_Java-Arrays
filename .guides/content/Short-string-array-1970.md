@@ -3,7 +3,6 @@
 |||guidance
 ## Solution
 ```java
-var result = ['AAA', 'BBB', 'CCC']
-console.log(result)
+
 ```
 |||
