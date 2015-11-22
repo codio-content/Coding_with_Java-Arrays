@@ -312,28 +312,6 @@
    "teacherOnly": false
   },
   {
-   "id": "19709f2d-ba55-7a50-a1a3-27b05a18513b",
-   "title": "Short string array",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "challenges/string_arr/Challenge.java",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Short-string-array-1970.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "4d8cc68b-670f-9911-87a8-644c5fa904",
    "title": "Simple Number Search",
    "files": [
@@ -408,7 +386,7 @@
      "action": "close"
     },
     {
-     "path": "challenges/split.js",
+     "path": "challenges/in_out/Challenge.java",
      "panel": 0,
      "action": "open"
     }

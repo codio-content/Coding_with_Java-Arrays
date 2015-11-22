@@ -21,11 +21,7 @@ public class Challenge {
         }
       
         // Write your code below
-        for (int i = (N-1); i < numbers.size(); i += N ) {
-          numbers.set(i, numbers.get(i)*M);
-        }
         
-        System.out.println(numbers);
         
       
     }
