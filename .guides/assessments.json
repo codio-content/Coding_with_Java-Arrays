@@ -1,0 +1,130 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1613904202",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/array_sum/test.sh",
+   "instructions": "We are passing 4 numbers to the `numbers` array. \n\n- Convert the `numbers` array to a dynamic `intList`\n- add a fifth element to the new `intList`: 7\n- sum the numbers\n- print the result. ",
+   "name": "array sum"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1644472701",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/num_search/test.sh",
+   "instructions": "We will pass a number N and an array of integers. Loop through the List, if the number N exists in the List, print the number, else output -1",
+   "name": "Number search"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1751765506",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/in_out/test.sh",
+   "instructions": "We are passing in an array of numbers. You need to create 2 new arrays in your chart, then\n\n- put all odd numbers in one array\n- put all even numbers in the other array\n- output the even array first, the odd array second\n\n**Tip:** you should use the *modulo* operator to decide whether the number is odd or even.\n\nDon't forget to define the 2 new arrays before you start adding elements to them.",
+   "name": "1 in, 2 out"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2290176677",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/new_array/test.sh",
+   "instructions": "We are passing String elements to a `produce` array. Create a new `produceList` from the `produce` array and add an extra element: \"carrot\"",
+   "name": "New array"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3941487118",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/string_arr/test.sh",
+   "instructions": "Create your own array of strings. Call the array anything you like as long as it is a valid variable name.\n\n- The array should contain 3 elements\n- The first element should contain 'AAA'\n- The second element should contain 'BBB'\n- The third element should contain 'CCC'\n\nOutput the array. ",
+   "name": "String array"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4057047487",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/string_arr/test.sh",
+   "instructions": "Create your own array of strings. Call the array anything you like as long as it is a valid variable name.\n\n- The array should contain 3 elements\n- The first element should contain 'AAA'\n- The second element should contain 'BBB'\n- The third element should contain 'CCC'\n\nOutput the array. ",
+   "name": "String array"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-466416884",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/n_x_10/test.sh",
+   "instructions": "We are passing in 3 inputs.\n\n- an array of numbers\n- a multiplier value, M\n- a value, N\n\nYou should multiply every Nth element (do not multiply the 0th element) by M. So, if N is 3, you start with the 3rd element, which is index 2.\n\nIf there are less than N elements then you should output the unchanged input array.",
+   "name": "x10 every other"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-939612923",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "tests/max_num/test.sh",
+   "instructions": "We will pass in an array of numbers. Your job is to find the largest number in that array and output **its index**, not the actual value.\n\n**Tip:** you will need to use a utility variable to store the maximum value and a decision to see if each number is bigger than the current maximum value encountered in previous iterations.",
+   "name": "Max number"
+  }
+ }
+]
